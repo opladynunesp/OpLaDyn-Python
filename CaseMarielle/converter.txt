@@ -1,0 +1,8 @@
+jupyter nbconvert C:\Users\unesp\ProjetoOpLaDyn\Sources_ipynb\getTweetsNYT.ipynb --to python
+jupyter nbconvert C:\Users\unesp\ProjetoOpLaDyn\Sources_ipynb\getTweetsKeywordCaseMarielle.ipynb --to python
+
+python getTweetsNYT.py
+
+jupyter nbconvert getTweetsKeywordCaseMarielle.ipynb --to python
+
+C:\Users\unesp\ProjetoOpLaDyn\Sources_ipynb
